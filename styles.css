@@ -1,0 +1,79 @@
+/* add your CSS here */
+.bodyclass {
+    display: flex;
+
+}
+
+
+.card_animals {
+    border: 1px solid gray;
+    padding: 10px;
+    box-shadow: gray 5px 5px;
+    background-color: bisque;
+    text-align: left;
+    width: 303px;
+    height: 615px;
+    margin: auto;
+    flex-wrap: wrap;
+
+
+
+
+}
+
+.info_cats {
+
+
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+    text-align: left;
+    margin-left: auto;
+    flex-wrap: wrap;
+    font-size: medium;
+
+
+
+}
+
+.fact_cats {
+    font-style: italic;
+    flex-wrap: wrap;
+    font-size: smaller;
+    font-family: "Times New Roman", Times, serif;
+    padding: 5px;
+
+}
+
+.list_cats {
+    list-style: none;
+    text-align: left;
+    color: black;
+    padding: 5px;
+    flex-wrap: wrap;
+    font-size: small;
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+.Label_cats {
+    font-weight: bold;
+    flex-wrap: wrap;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.img_cats {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid gray;
+
+}
+.p_description {
+    font-family: "Times New Roman", Times, serif;
+    font-size: small;
+    padding: 5px;
+    flex-wrap: wrap;
+}
